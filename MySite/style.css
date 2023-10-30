@@ -164,3 +164,42 @@ a {
 .strength-text {
   font-size: 16px;
 }
+
+#profile {
+  background-color: #ECEFF1;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.profile-group {
+  display: flex;
+  padding: 30px 0 90px 0;
+}
+
+.left-content {
+  width: 50%;
+}
+
+.my-face {
+  background-image: url(img/my-icon.jpg);
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.right-content {
+  width: 50%;
+}
+
+.description-title {
+    margin: 20px 0 5px 0;
+    font-size: 20px;
+}
+
+.description-title:first-child {
+    margin-top: 0;
+}
