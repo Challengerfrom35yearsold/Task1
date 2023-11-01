@@ -196,10 +196,40 @@ a {
 }
 
 .description-title {
-    margin: 20px 0 5px 0;
-    font-size: 20px;
+  margin: 20px 0 5px 0;
+  font-size: 20px;
 }
 
 .description-title:first-child {
-    margin-top: 0;
+  margin-top: 0;
+}
+
+.contact-group {
+  display: flex;
+  width: 800px;
+  padding: 30px 0 90px 0;
+  margin: 0 auto;
+}
+
+.left-contact-content {
+  width: 130px;
+  margin: 0 auto;
+}
+
+.link-text {
+  text-decoration: underline;
+}
+
+.right-contact-content {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.fa-brands {
+  font-size: 50px;
+  margin-right: 20px;
+}
+
+.fa-brands:last-child {
+  margin-right: 0;
 }
