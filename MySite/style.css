@@ -248,7 +248,7 @@ footer {
   text-align: center;
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:768px) {
   header {
     height: 50px;
   }
@@ -338,6 +338,10 @@ footer {
     width: 100%;
   }
 
-
+  .contact-group {
+    flex-flow: row wrap;
+    text-align: center;
+    width: 100%;
+  }
 
 }
