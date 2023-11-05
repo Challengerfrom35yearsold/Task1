@@ -303,4 +303,16 @@ footer {
     font-size: 18px;
   }
 
+  .portfolio-group {
+    width: 300px;
+  }
+
+  .portfolio-img {
+    margin-right: 0px;
+  }
+
+  .sp-none {
+    display: none;
+  }
+
 }
