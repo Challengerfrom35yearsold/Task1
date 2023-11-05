@@ -315,4 +315,14 @@ footer {
     display: none;
   }
 
+  .strength-group {
+    flex-flow: row wrap;
+    width: 320px;
+  }
+
+  .strength {
+    margin-right: 0px;
+  }
+
+
 }
